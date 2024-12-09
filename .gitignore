@@ -1,0 +1,27 @@
+[Llaves generales]
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+[Configuración de VSCode]
+.vscode/
+
+[Configuración de IDE]
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+[Archivos de Sistema]
+.DS_Store
+Thumbs.db
